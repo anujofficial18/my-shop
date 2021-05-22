@@ -1,0 +1,58 @@
+.container{
+    max-width: 80% ;
+    height: auto;
+    margin-top: 80px;
+    margin-left: 120px;
+
+    /* position: absolute;
+width: 1000px;
+
+left: 82px;
+top: 102px; */
+
+background: #333D79;
+}
+/* body{
+    background-color: #FAEBEF;
+} */
+/* .email{
+    position: absolute;
+width: 313px;
+height: 0px;
+left: 173px;
+top: 152px;
+
+background: #C4C4C4;
+border-radius: 10px;
+}
+.password{
+    position: absolute;
+width: 313px;
+height: 0px;
+left: 173px;
+top: 222px;
+
+background: #C4C4C4;
+border-radius: 10px;
+} */
+.space-bt{
+    justify-content: space-between;
+}
+.login-by{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.shop-img{
+    background-image: url(https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvcHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=200);
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+}
+.black{
+    color: black;
+
+}
+li a{
+    margin-left: 10px;
+    text-decoration: none;
+}
